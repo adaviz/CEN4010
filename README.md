@@ -1,1 +1,1 @@
-This repository contains project files for CEN4010, Principles of Software Engineering. 
+This is my personal repository containing files for CEN4010, Principles of Software Engineering. 
